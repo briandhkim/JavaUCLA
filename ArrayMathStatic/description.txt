@@ -1,0 +1,5 @@
+In this assignment, a class ArrayMath was created with various static methods.
+Additionally, this also tested plotting functions.
+
+
+status: while the ArrayMath's static methods do work, the plotting portion is still working progress
