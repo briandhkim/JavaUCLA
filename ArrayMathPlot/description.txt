@@ -1,0 +1,5 @@
+this was further exploration of the plotting portion from ArrayMathStatic.
+Here, the goal was to create a plot that could be updated in response to axis changes and color changes for the plotted line.
+Additionally, an attempt was made to implement drag/drop and zoom in/out features.
+
+The drag/drop and zoom in/out features have not been perfected. 
