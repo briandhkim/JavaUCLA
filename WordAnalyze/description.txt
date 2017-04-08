@@ -1,0 +1,9 @@
+in this assignment, the goal was to analyze the number of each words used in a provided text.
+
+The main function would read the complete text from a file into a string.
+	The text would then be convereted to all lower case and also remove all non-text characters and line breaks.
+	The string would then be convereted to an array with each element consisting a single word. (tokenizing)
+	The array would then be converted to a HashMap in order to count the number of times each word stem is used.
+	Finally, the words were saved as a txt file according to the number of times they were used in descending order.
+	Additionally, a binary file containing the serialized results have also been created. 
+
